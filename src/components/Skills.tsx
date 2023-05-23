@@ -25,13 +25,13 @@ const Skills = () => {
           <div className='flex flex-col md:flex-row gap-4 items-start md:items-center'>
             <div className='text-sm font-bold text-vistaBlue'>Tools:</div>
             <div className="flex flex-wrap gap-2">
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">ArcGIS</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">QGIS</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">AutoCAD</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Google Earth</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Global Positioning Systems</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Total Stations</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Laser Scan Stations</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">ArcGIS</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">QGIS</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">AutoCAD</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Google Earth</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Global Positioning Systems</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Total Stations</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Laser Scan Stations</div>
             </div>
           </div>
         </div>
@@ -51,9 +51,9 @@ const Skills = () => {
           <div className='flex flex-col md:flex-row gap-4 items-start md:items-center'>
             <div className='text-sm font-bold text-vistaBlue'>Tools:</div>
             <div className="flex flex-wrap gap-2">
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">VSCode</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">GitHub</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Anaconda</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">VSCode</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">GitHub</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Anaconda</div>
             </div>
           </div>
         </div>
@@ -70,10 +70,10 @@ const Skills = () => {
           <div className='flex flex-col md:flex-row gap-4 items-start md:items-center'>
             <div className='text-sm font-bold text-vistaBlue'>Tools:</div>
             <div className="flex flex-wrap gap-2">
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Adobe Illustrator</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Adobe XD</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Figma</div>
-              <div className="p-2 text-xs font-bold bg-gray-100 rounded-full">Canva</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Adobe Illustrator</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Adobe XD</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Figma</div>
+              <div className="p-2 text-sm font-bold bg-gray-100 rounded-full">Canva</div>
             </div>
           </div>
         </div>

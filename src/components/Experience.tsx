@@ -8,7 +8,7 @@ const Experience = () => {
       <div className='py-6 grid gap-4'>
         <div>
           <ExperienceItem
-            dates='Feb 2023 to May 2023'
+            dates='Feb to May 2023'
             company='Spotlight Kampala - Youth Mappers'
             companyLogo='kpi-logo.png'
             jobTitle='Assistant Manager'
@@ -19,7 +19,7 @@ const Experience = () => {
         </div>
         <div>
           <ExperienceItem
-            dates='May 2022 - Sept 2022'
+            dates='May to Sept 2022'
             company='Scapes & Surveys Associates'
             companyLogo='scapes-logo.png'
             jobTitle='Intern Land Surveyor'

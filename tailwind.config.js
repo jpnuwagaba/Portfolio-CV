@@ -10,7 +10,8 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'comfortaa': ["'Comfortaa', cursive"]
+      'space-mono': ["'Space Mono', monospace"],
+      'jet-brains-mono': ["'JetBrains Mono', monospace"]
     },
     extend: {
       colors: {

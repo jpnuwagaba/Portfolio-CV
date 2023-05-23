@@ -19,8 +19,8 @@ const Project: React.FC<props> = ({ name, image, description, link, linkName }) 
           backgroundRepeat: 'no-repeat'
         }} className="rounded-lg w-20 aspect-square h-20"></div>
         <div>
-          <div className="font-bold mb-2 text-gray-700">{name}</div>
-          <div className="text-gray-700 text-sm">{description}</div>
+          <div className="font-bold text-lg mb-2 text-gray-700">{name}</div>
+          <div className="text-gray-700 ">{description}</div>
         </div>
       </div>
       <a href={link} className="text-vistaBlue text-sm font-bold">{linkName}</a>
